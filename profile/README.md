@@ -36,7 +36,7 @@ I'm always open to opportunities and collaborations. Feel free to reach out:
 
 - **GitHub**: [github.com/NimbusNoesis](https://github.com/NimbusNoesis)
 - **Email**: [evannorstrand@nimbusnoesis.ai](mailto:evannorstrand@nimbusnoesis.ai)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/evannorstrand)
+- **LinkedIn**: [linkedin.com/in/evannorstrand](https://linkedin.com/in/evannorstrand)
 
 Let's create solutions that illuminate minds and transform experiences.
 
