@@ -35,7 +35,7 @@ Explore the projects that define Nimbus Noesis:
 I'm always open to opportunities and collaborations. Feel free to reach out:
 
 - **GitHub**: [github.com/NimbusNoesis](https://github.com/NimbusNoesis)
-- **Email**: [your.email@example.com](mailto:evannorstrand@nimbusnoesis.com)
+- **Email**: [evannorstrand@nimbusnoesis.ai](mailto:evannorstrand@nimbusnoesis.ai)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/evannorstrand)
 
 Let's create solutions that illuminate minds and transform experiences.
